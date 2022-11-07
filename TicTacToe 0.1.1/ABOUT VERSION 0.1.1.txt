@@ -1,0 +1,18 @@
+ENGLISH: -------------------
+Information about Update 0.1.1
+----------------------------
+Update 0.1.1 is the bugfix update
+
+CONTENT:
+* Fixed an error with choosing the wrong directory,
+which is why the file main.py it was not launched
+directly through Python.
+
+РУССКИЙ: -------------------
+Информация об обновлении 0.1.1
+----------------------------
+Обновление 0.1.1 - это обновление с устранением багов (ошибок)
+
+СОДЕРЖАНИЕ:
+* Устранена ошибка с выбором неправильной директории, 
+из-за чего файл main.py не запускался напрямую через Python.
